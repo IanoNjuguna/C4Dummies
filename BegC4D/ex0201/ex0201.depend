@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653990768 source:c:\users\ian\documents\github\learning c\begc4d\ex0201\ex0201\greetings-human.c
+	<stdio.h>
+	<stdlib.h>
+
