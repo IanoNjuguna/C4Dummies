@@ -1,6 +1,6 @@
 # BegC4D
 
-## A brief description of this directory
+## Description
 
 This directory contains my solutions to the tasks I tackled while using the book on C by Dan Gookin titled,[Beginning Programming with C for Dummies](https://africa1lib.vip/book/2214891/8964c6)
 
