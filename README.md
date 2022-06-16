@@ -36,6 +36,8 @@ C is portable in the sense that if somebody makes a C compiler for a different k
 
 This aspect of C is what makes it efficient as it's ideal for applications which require high performance and low memory overhead. Many languages aim to do this but so far, many don't handle the burden better than C.
 
+    ``` "C is not tied to any particular hardware or system, however, and it is easy to write programs that will run without change on any machine that supports C." - Dennis Ritchie & Brian Kernighan in the C Programming Book.```
+
 ### 4. It is important for embedded programming
 
 Embedded programming refers to writing computer software, to control machines or devices that are not typically thought of as computers. Such machines are commonly known as embedded systems.
