@@ -65,7 +65,7 @@ C is a general-purpose programming language and has been around for more than 30
 
 ## 3. Portability
 
-C is portable in the sense that if somebody makes a C compiler for a different kind of machine with a different architecture, then you can recompile whatever your program is for that new architecturein that way, you can move your program to a different machine.
+C is portable in the sense that if somebody makes a C compiler for a different kind of machine with a different architecture, then you can recompile whatever your program is for that new architecture in that way, you can move your program to a different machine.
 
 This aspect of C is what makes it efficient as it's ideal for applications which require high performance and low memory overhead. Many languages aim to do this but so far, many don't handle the burden better than C.
 
