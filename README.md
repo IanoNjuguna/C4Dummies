@@ -40,7 +40,7 @@ It was used to create the UNIX operating system.
     The original "K&R" C book was the informal language spec (Co-authored by B.Kernighan).
 A C compiler has been part of the UNIX OS since.
 
-In the early, 1980s, Bjarne Stoustroup used C as the basis of the Object Oriented C++ programming language. C++ is quite similar to C and it's easier to learn it when you know C. C++ is not a mere extension or add-on to C
+In the early, 1980s, Bjarne Stoustroup used C as the basis of the Object Oriented C++ programming language. C++ is quite similar to C and it's easier to learn it when you know C. C++ is not a mere extension or add-on to C.
 The D programming language(early 2000s) is visually similar to C.
 
 ## Reasons to learn the C Language
