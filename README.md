@@ -4,11 +4,39 @@
 
 This repository contains the notes that I have taken while learning the C Programming Language from various sources over the years.
 
-## An introduction to the C Programming Language
+## An introduction to Programming & the C Programming Language
 
 To begin with, programming is the process by which you tell hardware what to do. This process is done by writing a program(software).
+The goal of programming is to choose a language and utilize various tools to create a program. These tools include:
 
-The C language was developed in 1972 at AT&T Bell Labs by Dennis Ritchie. It combined features from the B and BCPL programming languages but also mixed in a bit of the Pascal language.
+    * An editor.
+    * A compiler.
+    * A linker.
+The language of choice for this project is C. The end result should be a program that directs the hardware to do something.
+
+The first hardware to be programmed was Charles Babbage's ```Analytical Engine``` back in 1822. It was an improvement to the ```Difference Engine``` and was programmed by physically changing the values represented by a column of gears. The engine would then compute the result. Even though Charles Babbage passed away without completing it due to a number of reasons, the Analytical Engine was the first design for a Turing complete general-purpose computer.
+
+In the 1940s, early electronic computers were programed in a similar manner to Babbage's analytical engine. A major difference was that rather than rearrange physical gears, instructions were hard-wired directly into electric circuits. Over time, the rewiring of electric circuits was replaced by rows of switches.
+
+Professor John von Neumann pioneered the modern method of computer programming in the 1950s by introducing decision-making into the process, where computers could make ```if-then``` choices. He also developed the concept of the repeating loop and sub routine.
+
+Admiral Grace Hopper developed the compiler. Basically, a compiler is a program that creates other programs. Her compiler would take words in English and translate them to computer code. Thus, the programming language was born.
+
+The first significant programming language was ```FORTRAN```(1950s). It's name came from ```formula translator```.
+Other Programming languages of the period were: ```COBOL```, ```Algol```, ```Pascal```, ```BASIC```, etc.
+
+The C language was developed in 1972 at AT&T Bell Labs by Dennis Ritchie. It combined features from the B and BCPL programming languages but also mixed in a bit of the Pascal language. The 'B' in B programming language comes from the 'B' in Bell Labs.
+BCPL stands for Basic Combined Programming Language.
+
+C is an imperative(procedural) language.
+
+It was used to create the UNIX operating system.
+
+    The original "K&R" C book was the informal language spec (Co-authored by B.Kernighan).
+A C compiler has been part of the UNIX OS since.
+
+In the early, 1980s, Bjarne Stoustroup used C as the basis of the Object Oriented C++ programming language. C++ is quite similar to C and it's easier to learn it when you know C. C++ is not a mere extension or add-on to C
+The D programming language(early 2000s) is visually similar to C.
 
 ## Reasons to learn the C Language
 
