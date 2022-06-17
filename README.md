@@ -1,5 +1,10 @@
 # The C Programming Language
 
+    "In our experience, C has proven to be a pleasant, expressive, and versatile 
+    language for a wide variety of programs. It is easy to learn, and it wears well 
+    as one's experience with it grows." 
+    - Dennis Ritchie & Brian Kernighan in the preface to the C Programming Language Book.
+
 ## Description of this Repository
 
 This repository contains the notes that I have taken while learning the C Programming Language from various sources over the years.
