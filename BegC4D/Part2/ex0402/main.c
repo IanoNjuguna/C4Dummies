@@ -1,4 +1,4 @@
-// A program that prompts screen to display text
+// A program that prompts standard output to display text
 #include <stdio.h>
 
 int main()
