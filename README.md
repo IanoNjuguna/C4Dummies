@@ -55,7 +55,7 @@ Almost all popular programming languages are built on top of the C programming l
     * Python.
     * Ruby.
     * Java.
-    * Lua.
+    * D.
     * JavaScript.
 The languages are libraries built in C code.
 
