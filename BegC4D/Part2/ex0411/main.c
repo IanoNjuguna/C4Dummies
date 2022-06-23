@@ -4,7 +4,7 @@
 int main()
 {
     printf("I have been a stranger in a strange land\n");
-    getchar();
+    //                                                      getchar();
     return 0;
 }
 
