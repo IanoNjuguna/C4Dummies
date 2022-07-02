@@ -6,4 +6,4 @@ This directory contains my solutions to the tasks I tackled while using the book
 
 I found this book insightful in that the author assumes that you don't have prior experience with programming.
 
-The IDE of choice is: ```CODE BLOCKS```
+The IDE of choice is: ```CODE BLOCKS``` & ```VS Code```
