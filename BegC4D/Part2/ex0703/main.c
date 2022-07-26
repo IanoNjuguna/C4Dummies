@@ -5,7 +5,7 @@ int main()
     int c;
 
     printf("I'm waiting for a character: ");
-    c=getc(stdin);
+    c = getc(stdin);
     printf("I waited for the '%c' character.\n",c);
     return 0;
 }
