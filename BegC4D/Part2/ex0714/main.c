@@ -3,7 +3,7 @@
 int main()
 {
     int fav;
-
+    
     printf("What is your favourite number: ");
     scanf("%d",&fav);
     printf("%d is my favourite number, too!\n",fav);
