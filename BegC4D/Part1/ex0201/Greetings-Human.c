@@ -6,6 +6,7 @@
  * main - Entry point.
  * Description: Program that prints Greetings, human.
  * Return: Always 0 (Success)
+ * Author: IanoNjuguna
  */
 int main(void)
 {

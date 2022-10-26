@@ -6,6 +6,7 @@
  * main - Entry point.
  * Description: A simple program that does nothing(Dummy program)
  * Return: Always 0 (Success)
+ * Author: IanoNjuguna
  */
 int main(void)
 {
