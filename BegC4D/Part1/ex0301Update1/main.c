@@ -6,6 +6,7 @@
  * main - Entry point.
  * Description: A basic C Program that calculates 4 * 5.
  * Return: Always 0 (Success)
+ * Author: IanoNjuguna
  */
 int main(void)
 {
