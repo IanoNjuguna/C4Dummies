@@ -1,10 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
-//Program that prints Hello World
-
-int main()
+/**
+ * main - Entry point.
+ * Description: Program that prints Hello World
+ * Return: Success (Always 0)
+ * Author: IanoNjuguna
+ */
+int main(void)
 {
-    printf("Hello world!\n");
-    return 0;
+/* local variable definition */
+int a;
+
+a = 20;
+
+/* while loop execution */
+while (a < 25)
+{
+	/* prints Hello World */
+	printf("Hello world!\n");
+	a++;
+}
+return (0);
 }

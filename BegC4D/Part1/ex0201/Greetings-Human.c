@@ -1,10 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
-//Program that prints Greetings, human.
-
-int main()
+/**
+ * main - Entry point.
+ * Description: Program that prints Greetings, human.
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
+int main(void)
 {
-    puts("Greetings, human.\n");
-    return 0;
+puts("Greetings, human.\n");
+return (0);
 }
