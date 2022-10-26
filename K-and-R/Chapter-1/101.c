@@ -1,15 +1,15 @@
 #include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
 
 /**
  * main - Entry point.
- * Description: A basic C Program that calculates 4 * 5.
+ * Description: Run the "hello, world" program on your system
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
 int main(void)
 {
-printf("4 times 5 is %d\n", 4 * 5);
-return(0);
+printf("Hello World.\n");
+return (0);
 }
