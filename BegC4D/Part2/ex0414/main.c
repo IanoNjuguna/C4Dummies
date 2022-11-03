@@ -3,7 +3,7 @@
 /**
  * main - Entry point.
  * Description: Program that uses displays text using printf()
- * 		and employs an escape sequence
+ *		and employs an escape sequence
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
