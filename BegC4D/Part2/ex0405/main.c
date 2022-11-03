@@ -1,14 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
+/**
+ * main - Entry point.
+ * Description: Program that disables a statement using comments.
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
 
-int main()
+int main(void)
 {
-    puts("The secret password is: ");
-    /*                               puts("Spatula.");  */
-    return 0;
+	puts("The secret password is: ");
+	/*                               puts("Spatula.");  */
+	return (0);
 }
-
-// Type /* at the start of Line 6, then press the Tab key to indent the
-// statement to the same tab stop as on the preceding line. Press Tab at the end
-// of Line 6 before adding the final comment marker: */
-// . Save. Build. Run.
