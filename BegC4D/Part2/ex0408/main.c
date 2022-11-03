@@ -9,6 +9,6 @@
 
 int main(void)
 {
-    puts("This program goes BOOM!)
-    return (0);
+	puts("This program goes BOOM!)
+	return (0);
 }
