@@ -1,14 +1,22 @@
 # include <stdio.h>
+/**
+ * main - Entry point.
+ * Description: Program that fetches characters using getchar()
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
 
-int main()
+int main(void)
 {
-    int ch;
+	int ch;
 
-    printf("Press Enter Key: ");
-    getchar();
-    ch='H';
-    putchar(ch);
-    ch='i';
-    putchar('!');
-    return 0;
+	printf("Press Enter Key: ");
+	getchar();
+	ch = 'H';
+	putchar(ch);
+	ch = 'i';
+	putchar('!');
+	ch = '\n';
+	putchar(ch);
+	return (0);
 }
