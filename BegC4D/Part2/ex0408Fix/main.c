@@ -3,7 +3,7 @@
 
 /**
  * main - Entry point.
- * Description: Program that uses puts()
+ * Description: Program that uses displays text using puts()
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
