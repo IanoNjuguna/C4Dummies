@@ -6,12 +6,12 @@
  * Author: IanoNjuguna
  */
 
+#define WORD name[4]
+
 int main(void)
 {
-	#define NAME char[4]
-
 	printf("Who are you?\n");
-	fgets(NAME, 4, stdin);
-	printf("Glad to meet you, %s\n", NAME);
+	fgets(WORD, 4, stdin);
+	printf("Glad to meet you, %s\n", WORD);
 	return (0);
 }
