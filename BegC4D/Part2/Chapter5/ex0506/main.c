@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main -Entry point.
- * Description: Displaying integers and floats
+ * Description: Using the puts() and printf() functions
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
