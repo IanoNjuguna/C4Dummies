@@ -1,14 +1,20 @@
 #include <stdio.h>
+/**
+ * main - Entry point.
+ * Description: Working with character variables using the printf() function
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
 
-int main ()
+int main(void)
 {
-    char a,b,c,d;
+	char a, b, c, d;
 
-    a = 'W';
-    b = a+24;
-    c = b+8;
-    d = '\n';
+	a = 'W';
+	b = a + 24;
+	c = b + 8;
+	d = '\n';
 
-    printf("%c%c%c%c",a,b,c,d);
-    return 0;
+	printf("%c%c%c%c", a, b, c, d);
+	return (0);
 }

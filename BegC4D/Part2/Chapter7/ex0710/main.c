@@ -1,16 +1,15 @@
-/* Iano Njuguna
- * https://twitter.com/MsanidiProgramu
- * https://www.twitch.tv/ianonjuguna
- * https://www.instagram.com/ianonjuguna_/
- * https://www.tiktok.com/@njugunatok
- */
 #include <stdio.h>
-
-int main ()
+/**
+ * main - Entry point.
+ * Description: Storing strings by creating an array of character variables
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
+int main(void)
 {
-    char prompt [] = "Press Enter: ";
+	char prompt[] = "Press Enter: ";
 
-    printf("%s",prompt);
-    getchar();
-    return 0;
+	printf("%s", prompt);
+	getchar();
+	return (0);
 }

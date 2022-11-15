@@ -1,14 +1,20 @@
 #include <stdio.h>
+/**
+ * main - Entry point.
+ * Description: Reading strings using the scanf() function
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
 
-int main ()
+int main(void)
 {
-    char firstname [30];
-    char secondname [30];
+	char first_name[30];
+	char second_name[30];
 
-    printf("Type your first name: \n");
-    scanf("%s",firstname);
-    printf("Type your second name: \n");
-    scanf("%s",secondname);
-    printf("Pleased to meet you, %s %s.\n",firstname,secondname);
-    return 0;
+	printf("Type your first name: \n");
+	scanf("%s", first_name);
+	printf("Type your second name: \n");
+	scanf("%s", second_name);
+	printf("Pleased to meet you, %s %s.\n", first_name, second_name);
+	return (0);
 }
