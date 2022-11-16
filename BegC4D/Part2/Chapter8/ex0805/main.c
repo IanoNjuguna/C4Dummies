@@ -26,5 +26,9 @@ int main(void)
 	{
 		printf(" %d is greater than % d \n", first, second);
 	}
+	if (first == second)
+	{
+		printf(" %d is equal to %d \n", first, second);
+	}
 	return (0);
 }
