@@ -8,21 +8,24 @@
 
 int main(void)
 {
-	int first, second;
+	int first;
+	int second;
 
-	printf(“Input the first value : \n“);
-	scanf(“ % d ”, &first);
-	printf(“Input the second value : \n“);
-	scanf(“ % d”, &second);
-	puts(“Evaluating...\n”);
+	printf("Input the first value : \n");
+	scanf(" %d ", &first);
+
+	printf("Input the second value : \n");
+	scanf(" %d ", &second);
+
+	puts("Evaluating . . .\n");
 
 	if (first < second)
 	{
-		printf(“ % d is less than % d\n”, first, second);
+		printf(" %d is less than % d \n", first, second);
 	}
 	if (first > second)
 	{
-		printf(“ % d is greater than % d\n”, first, second);
+		printf(" %d is greater than % d \n", first, second);
 	}
 	return (0);
 }
