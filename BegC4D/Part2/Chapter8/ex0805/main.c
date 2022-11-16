@@ -11,12 +11,10 @@ int main(void)
 	int first;
 	int second;
 
-	printf("Input the first value :");
+	printf("Input the first value: \n");
 	scanf(" %d ", &first);
-	printf("Input the second value :");
+	printf("Input the second value: \n");
 	scanf(" %d ", &second);
-
-	puts("Evaluating . . .\n");
 
 	if (first < second)
 	{
