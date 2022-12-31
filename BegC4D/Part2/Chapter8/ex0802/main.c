@@ -17,5 +17,10 @@ int main(void)
 	{
 		printf("%d is greater than %d\n", a, b);
 	}
+	else
+	{
+		printf("%d is greater than %d\n", b, a);
+	}
 	return (0);
 }
+
