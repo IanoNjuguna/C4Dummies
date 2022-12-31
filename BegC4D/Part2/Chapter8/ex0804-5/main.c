@@ -3,17 +3,24 @@
  * main - Entry point.
  * Description: Comparison Operators
  *
- * @first: Contains value to be checked
- * @second: Contains value to be checked
+ *
+ *
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
 
 int main(void)
 {
-	int first = 7;
-	int second = 7;
+	int first;
+	int second;
 
+	printf("Input the first value: ");
+	scanf("%d", &first);
+
+	printf("Input the second value: ");
+	scanf("%d", &second);
+
+	puts("Evaluating ...");
 	if (first < second)
 	{
 		printf(" %d is less than %d \n", first, second);
@@ -28,3 +35,4 @@ int main(void)
 	}
 	return (0);
 }
+
