@@ -3,8 +3,6 @@
  * main - Entry point.
  * Description: Comparison Operators
  *
- *
- *
  * Return: Always 0 (Success)
  * Author: IanoNjuguna
  */
