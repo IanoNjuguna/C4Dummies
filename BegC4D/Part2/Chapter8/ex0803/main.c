@@ -15,5 +15,7 @@ int main(void)
 
 	if (a > b)
 		printf("%d is greater than %d\n", a, b);
+
 	return (0);
 }
+
