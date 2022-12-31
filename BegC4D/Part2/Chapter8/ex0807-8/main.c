@@ -18,6 +18,10 @@ int main(void)
 	{
 		printf("%d equals %d\n", a, -3);
 	}
+	else
+	{
+		printf("%d not equals %d\n", a, -3);
+	}
 	return (0);
 }
 
