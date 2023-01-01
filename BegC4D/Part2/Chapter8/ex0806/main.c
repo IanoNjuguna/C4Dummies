@@ -6,6 +6,7 @@
  * Description: Checks whether two values are equal to each other
  *
  * Return: Always 0 (Success)
+ * Author: IanoNjuguna
  */
 
 int main(void)
@@ -27,3 +28,4 @@ int main(void)
 	}
 	return (0);
 }
+
