@@ -20,7 +20,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is greater than %d\n", a, b);
+		printf("%d is not greater than %d\n", a, b);
 	}
 	return (0);
 }
