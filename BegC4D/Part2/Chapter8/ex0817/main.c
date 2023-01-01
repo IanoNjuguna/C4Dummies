@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ * Author: IanoNjuguna
+ */
+
+int main(void)
+{
+	int code;
+
+	printf("Enter the error code (1-3): ");
+	scanf("%d", &code);
+
+	switch (code)
+	{
+		case 1:
+			puts("Drive Fault, not your fault.");
+			break;
+		case 2:
+			puts("Illegal format, call a lawyer.");
+			break;
+		case 3:
+			puts("Bad filename, spank it.");
+			break;
+		default:
+			puts("That's not 1, 2, or 3.");
+	}
+	return (0);
+}
+
