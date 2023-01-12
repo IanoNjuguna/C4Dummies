@@ -11,12 +11,16 @@ int main(void)
 {
 	int count;
 
-	for (count = 11; count <= 19; count++)
+	count = 0;
+	while (1)
 	{
-		printf("%d\t", count);
-	}
-	printf("\n");
+		printf("%d\n", count);
+		count++;
 
+		if (count > 50)
+			break;
+	}
+	putchar('\n');
 	return (0);
 }
 
