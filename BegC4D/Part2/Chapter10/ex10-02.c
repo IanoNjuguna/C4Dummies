@@ -10,16 +10,6 @@ void prompt(void)
 }
 
 /**
- * main - entry point for test
- *
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-	busy();
-}
-
-/**
  * busy - a while loop
  *
  * Return: Always 0 (Success)
@@ -35,6 +25,17 @@ int busy(void)
 		fgets(input, 31, stdin);
 		loop++;
 	}
+	return (0);
+}
+
+/**
+ * main - entry point for test
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	busy();
 	return (0);
 }
 
