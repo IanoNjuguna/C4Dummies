@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -14,7 +13,7 @@ void prompt(void)
  *
  * Return: Always 0 (Success)
  */
-int busy(void)
+void busy(void)
 {
 	int loop = 0;
 	char input[32];
@@ -25,7 +24,6 @@ int busy(void)
 		fgets(input, 31, stdin);
 		loop++;
 	}
-	return (0);
 }
 
 /**
