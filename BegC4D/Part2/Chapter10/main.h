@@ -9,5 +9,6 @@ void vegas(void);
 void graph(int count);
 void graph2(int count, char ast);
 float convert(float f);
+void limit(int stop);
 
 #endif
