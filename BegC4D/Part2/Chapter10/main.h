@@ -6,5 +6,6 @@ void prompt(void);
 void busy(void);
 int main(void);
 void vegas(void);
+void graph(int count);
 
 #endif
