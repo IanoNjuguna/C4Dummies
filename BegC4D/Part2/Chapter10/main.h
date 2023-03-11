@@ -8,5 +8,6 @@ int main(void);
 void vegas(void);
 void graph(int count);
 void graph2(int count, char ast);
+float convert(float f);
 
 #endif
