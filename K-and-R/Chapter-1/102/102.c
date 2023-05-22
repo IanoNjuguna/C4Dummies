@@ -10,6 +10,6 @@
  */
 int main(void)
 {
-printf("Hello World.\c");
+printf("Hello World.\t");
 return (0);
 }
