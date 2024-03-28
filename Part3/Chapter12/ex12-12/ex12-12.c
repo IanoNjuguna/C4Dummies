@@ -12,9 +12,9 @@ int main(void)
 	char secondname[16];
 
 	printf("What is your first name?\n");
-	scanf("%s", firstname);
+	scanf("%15s", firstname);
 	printf("What is your second name?\n");
-	scanf("%s", secondname);
+	scanf("%15s", secondname);
 
 	printf("Hello %s %s\n", firstname, secondname);
 	return (0);
